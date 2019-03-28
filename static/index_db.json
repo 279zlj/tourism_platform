@@ -1,0 +1,97 @@
+{
+  "keyuan": [
+    {
+      "province": "广东",
+      "people": "1000",
+      "stay": "4"
+    },
+    {
+      "province": "山东",
+      "people": "2000",
+      "stay": "4"
+    },
+    {
+      "province": "沈阳",
+      "people": "2000",
+      "stay": "5"
+    },
+    {
+      "province": "黑龙江",
+      "people": "500",
+      "stay": "7"
+    },
+    {
+      "province": "北京",
+      "people": "1000",
+      "stay": "4"
+    },
+    {
+      "province": "山西",
+      "people": "1000",
+      "stay": "7"
+    },
+    {
+      "province": "湖北",
+      "people": "1000",
+      "stay": "7"
+    },
+    {
+      "province": "湖南",
+      "people": "200",
+      "stay": "6"
+    },
+    {
+      "province": "上海",
+      "people": "810",
+      "stay": "10"
+    },
+    {
+      "province": "安徽",
+      "people": "1000",
+      "stay": "7"
+    },
+    {
+      "province":"福建",
+      "people": "900",
+      "stay": "7"
+    },
+    {
+      "province": "浙江",
+      "people": "1200",
+      "stay": "7"
+    },
+    {
+      "province": "贵州",
+      "people": "1000",
+      "stay": "3"
+    },
+    {
+      "province": "云南",
+      "people": "1000",
+      "stay": "4"
+    },
+    {
+      "province": "广西",
+      "people": "100",
+      "stay": "3"
+    },
+    {
+      "province":"青海",
+      "people": "100",
+      "stay": "2"
+    }
+  ],
+  "renliu":[
+    {"product": "周一", "游客": 43.3, "本地": 85.8},
+    {"product": "周二", "游客": 83.1, "本地": 73.4},
+    {"product": "周三", "游客": 86.4, "本地": 65.2},
+    {"product": "周四", "游客": 72.4, "本地": 53.9},
+    {"product": "周五", "游客": 86.4, "本地": 65.2},
+    {"product": "周六", "游客": 72.4, "本地": 53.9},
+    {"product": "周日", "游客": 86.4, "本地": 65.2}
+  ],
+  "shishi":[
+    {"value": 35, "name": "本地"},
+    {"value": 310, "name": "客流"}
+  ]
+}
